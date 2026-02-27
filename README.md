@@ -1,23 +1,23 @@
-# Hi, I'm Khalid Saud 👋
+# Hey there! 👋
 
-🎓 Senior Computer Engineering Student  
-🔐 Interested in AI/ML, Embedded Systems, IOT, Electronics, and VLSI Design  
- 
+I'm Khalid, a Computer Engineering student based in Saudi Arabia.
 
+I like building intelligent systems and turning ideas into real projects.  
+Most of my work sits at the intersection of AI/ML, embedded systems, and digital design.
 
-
-## 🛠 Skills
-- Python, C/C++, MATLAB, SQL  
-- Machine Learning Fundamentals   
-- Embedded Systems and IOT
-- CMOS & Digital Logic Design  & Electroincs
+If something sounds challenging, I’ll probably try to build it.
 
 
 
-## 📌 Current Focus
-- AI/ML Engineering  
-- Embedded & IOT systems
+### Tech I work with
+Python • C/C++ • MATLAB • SQL  
+Machine Learning • Data Structures  
+Raspberry Pi • Embedded Systems  
+CMOS & Digital Logic Design  
 
----
 
-📫 Connect with me on LinkedIn  
+
+### Currently
+- Diving deeper into AI/ML
+- Building practical engineering projects
+
