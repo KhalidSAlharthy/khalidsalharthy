@@ -4,7 +4,7 @@
 🔐 Interested in AI/ML, Embedded Systems, IOT, Electronics, and VLSI Design  
  
 
----
+
 
 ## 🛠 Skills
 - Python, C/C++, MATLAB, SQL  
@@ -12,7 +12,7 @@
 - Embedded Systems and IOT
 - CMOS & Digital Logic Design  & Electroincs
 
----
+
 
 ## 📌 Current Focus
 - AI/ML Engineering  
