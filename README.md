@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Khalid Saud 👋
 
-<!--
-**KhalidSAlharthy/khalidsalharthy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Senior Computer Engineering Student  
+🔐 Interested in AI/ML, Embedded Systems, IOT, Electronics, and VLSI Design  
+ 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- Python, C/C++, MATLAB, SQL  
+- Machine Learning Fundamentals   
+- Embedded Systems and IOT
+- CMOS & Digital Logic Design  & Electroincs
+
+---
+
+## 📌 Current Focus
+- AI/ML Engineering  
+- Embedded & IOT systems
+
+---
+
+📫 Connect with me on LinkedIn  
