@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm Khalid, a Computer Engineering student based in Saudi Arabia.
+I'm Khalid, a Senior Computer Engineering student based in Saudi Arabia.
 
 I like building intelligent systems and turning ideas into real projects.  
 Most of my work sits at the intersection of AI/ML, embedded systems, and digital design.
