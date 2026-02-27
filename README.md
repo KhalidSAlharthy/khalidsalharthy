@@ -8,12 +8,10 @@ Most of my work sits at the intersection of AI/ML, embedded systems, and digital
 If something sounds challenging, I’ll probably try to build it.
 
 
-
 ### Tech I work with
 Python • C/C++ • MATLAB • SQL  
-Machine Learning • Data Structures  
-Raspberry Pi • Embedded Systems  
-CMOS & Digital Logic Design  
+Machine Learning • Embedded Systems  
+CMOS • Digital Logic Design • Electronics 
 
 
 
